@@ -1,3 +1,3 @@
-hi. we're lunal 👋 
+hi. we're confidential 👋 
 
-come see us at https://lunal.dev/
+come see us at https://confidential.ai/
